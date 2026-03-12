@@ -1,0 +1,128 @@
+Category,Item,Description,Status,Target_Date,Notes
+Book,Book 1,Hands-On ML with Scikit-Learn and PyTorch (Géron),Completed,2026-03-31,Completed Oct 2025 per problem statement
+Book,Book 2,Deep Learning with Python 3rd Ed (Chollet),Not Started,2026-05-31,
+Book,Book 3,Build an LLM from Scratch (Raschka),Not Started,2026-07-31,
+Book,Book 4,Build a Reasoning Model from Scratch (Raschka),Not Started,2026-09-30,MEAP/Upcoming at time of writing
+Project,Project 1 - ARC-Perceiver,Classical ML feature extraction + rule templates for ARC,Not Started,2026-04-19,Target score: ARC-AGI-1 15-25%
+Project,Project 2 - ARC-NeuralSolver,CNN + Slot Attention object-centric model for ARC,Not Started,2026-06-14,Target score: ARC-AGI-1 30-42%
+Project,Project 3 - ARC-Programmer,Fine-tuned LLM for DSL program synthesis on ARC,Not Started,2026-08-09,Target score: ARC-AGI-1 48-62%
+Project,Project 4 - ARC-Reasoner,Reasoning model + GRPO + test-time search for ARC,Not Started,2026-10-11,Target score: ARC-AGI-1 55-70%; ARC-AGI-2 30-50%
+Paper,P01-Random-Forests,Breiman (2001) Random Forests,Not Started,2026-03-11,Phase 1
+Paper,P02-SVM,Cortes & Vapnik (1995) Support-Vector Networks,Not Started,2026-03-13,Phase 1
+Paper,P03-AdaBoost,Freund & Schapire (1997) AdaBoost,Not Started,2026-03-15,Phase 1
+Paper,P04-XGBoost,Chen & Guestrin (2016) XGBoost,Not Started,2026-03-17,Phase 1
+Paper,P05-Lasso,Tibshirani (1996) Lasso Regression,Not Started,2026-03-19,Phase 1
+Paper,P06-PCA,Pearson (1901) PCA,Not Started,2026-03-21,Phase 1
+Paper,P07-KMeans,MacQueen (1967) K-Means,Not Started,2026-03-23,Phase 1
+Paper,P08-DBSCAN,Ester et al. (1996) DBSCAN,Not Started,2026-03-25,Phase 1
+Paper,P09-VAE,Kingma & Welling (2014) VAE,Not Started,2026-03-27,Phase 1
+Paper,P10-RepresentationLearning,Bengio et al. (2013) Representation Learning Review,Not Started,2026-03-29,Phase 1
+Paper,P11-DLOverview,Schmidhuber (2015) Deep Learning Overview,Not Started,2026-03-31,Phase 1
+Paper,P12-Dropout,Goodfellow et al. (2014) Dropout,Not Started,2026-04-02,Phase 1
+Paper,P13-ResNet,He et al. (2016) ResNet,Not Started,2026-04-04,Phase 1
+Paper,P14-BatchNorm,Ioffe & Szegedy (2015) Batch Normalization,Not Started,2026-04-06,Phase 1
+Paper,P15-CLEVR,Johnson et al. (2021) CLEVR,Not Started,2026-04-08,Phase 1
+Paper,P16-RelationalReasoning,Santoro et al. (2017) Relational Reasoning,Not Started,2026-04-10,Phase 1
+Paper,P17-BuidlingMachines,Lake et al. (2017) Building Machines That Learn and Think Like People,Not Started,2026-04-12,Phase 1
+Paper,P18-ARC-Original,Chollet (2019) On the Measure of Intelligence,Not Started,2026-04-14,Phase 1 - MUST READ
+Paper,P19-LeNet,LeCun et al. (1998) LeNet,Not Started,2026-04-19,Phase 2
+Paper,P20-VGG,Simonyan & Zisserman (2015) VGG,Not Started,2026-04-21,Phase 2
+Paper,P21-Attention,Vaswani et al. (2017) Attention Is All You Need,Not Started,2026-04-23,Phase 2 - MUST READ
+Paper,P22-SlotAttention,Locatello et al. (2020) Slot Attention,Not Started,2026-04-25,Phase 2 - MUST READ
+Paper,P23-MONet,Burgess et al. (2019) MONet,Not Started,2026-04-27,Phase 2
+Paper,P24-IODINE,Greff et al. (2019) IODINE,Not Started,2026-04-29,Phase 2
+Paper,P25-SLATE,Zhao et al. (2021) SLATE,Not Started,2026-05-01,Phase 2
+Paper,P26-GAN,Goodfellow et al. (2014) GAN,Not Started,2026-05-03,Phase 2
+Paper,P27-DDPM,Ho et al. (2020) DDPM,Not Started,2026-05-05,Phase 2
+Paper,P28-DLCritique,Marcus (2018) Deep Learning A Critical Appraisal,Not Started,2026-05-07,Phase 2
+Paper,P29-SCAN,Lake & Baroni (2018) SCAN,Not Started,2026-05-09,Phase 2
+Paper,P30-COGS,Keysers et al. (2020) COGS,Not Started,2026-05-11,Phase 2
+Paper,P31-ContraCode,Kim et al. (2021) ContraCode,Not Started,2026-05-13,Phase 2
+Paper,P32-MAE,He et al. (2022) MAE,Not Started,2026-05-15,Phase 2
+Paper,P33-ViT,Dosovitskiy et al. (2021) ViT,Not Started,2026-05-17,Phase 2
+Paper,P34-VisualAnalogies,Zhang et al. (2021) Visual Analogies,Not Started,2026-05-19,Phase 2
+Paper,P35-ExternalMemory,Wang et al. (2021) External Memory,Not Started,2026-05-21,Phase 2
+Paper,P36-Raven,Barrett et al. (2018) Measuring Abstract Reasoning,Not Started,2026-05-23,Phase 2
+Paper,P37-AbstractionARC,Mitchell et al. (2021) Abstraction and Analogy in ARC,Not Started,2026-05-25,Phase 2
+Paper,P38-GraphsARC,Xu et al. (2022) Graphs Constraints and ARC,Not Started,2026-05-27,Phase 2
+Paper,P39-ARC-Survey,Ainooson et al. (2023) Approach for ARC Dataset,Not Started,2026-05-29,Phase 2
+Paper,P40-ObjectCentricARC,Hodel (2023) Object-Centric Methods for ARC,Not Started,2026-05-31,Phase 2 - MUST READ
+Paper,P41-PCPCA,Kolev et al. (2020) Probabilistic Contrastive PCA,Not Started,2026-06-02,Phase 2
+Paper,P42-GPT1,Radford et al. (2018) GPT-1,Not Started,2026-06-15,Phase 3
+Paper,P43-GPT2,Radford et al. (2019) GPT-2,Not Started,2026-06-17,Phase 3
+Paper,P44-GPT3,Brown et al. (2020) GPT-3,Not Started,2026-06-19,Phase 3
+Paper,P45-BERT,Devlin et al. (2019) BERT,Not Started,2026-06-21,Phase 3
+Paper,P46-T5,Raffel et al. (2020) T5,Not Started,2026-06-23,Phase 3
+Paper,P47-CoT,Wei et al. (2022) Chain-of-Thought Prompting,Not Started,2026-06-25,Phase 3
+Paper,P48-EmergentAbilities,Wei et al. (2022) Emergent Abilities,Not Started,2026-06-27,Phase 3
+Paper,P49-DreamCoder,Ellis et al. (2021) DreamCoder,Not Started,2026-06-29,Phase 3 - MUST READ
+Paper,P50-RobustFill,Devlin et al. (2017) RobustFill,Not Started,2026-07-01,Phase 3
+Paper,P51-Scratchpad,Nye et al. (2021) Scratchpads,Not Started,2026-07-03,Phase 3
+Paper,P52-ProgramSynthesisLLM,Austin et al. (2021) Program Synthesis with LLMs,Not Started,2026-07-05,Phase 3 - MUST READ
+Paper,P53-AlphaCode,Li et al. (2022) AlphaCode,Not Started,2026-07-07,Phase 3
+Paper,P54-Codex,Chen et al. (2021) Codex HumanEval,Not Started,2026-07-09,Phase 3
+Paper,P55-InstructGPT,Ouyang et al. (2022) InstructGPT,Not Started,2026-07-11,Phase 3
+Paper,P56-RLHF,Ziegler et al. (2019) Fine-Tuning from Human Preferences,Not Started,2026-07-13,Phase 3
+Paper,P57-Minerva,Lewkowycz et al. (2022) Minerva,Not Started,2026-07-15,Phase 3
+Paper,P58-SelfConsistency,Wang et al. (2022) Self-Consistency,Not Started,2026-07-17,Phase 3
+Paper,P59-SemanticParsing,Drozdov et al. (2023) Compositional Semantic Parsing,Not Started,2026-07-19,Phase 3
+Paper,P60-LLMPatternMachines,Mirchandani et al. (2023) LLMs as Pattern Machines,Not Started,2026-07-21,Phase 3
+Paper,P61-LLMsARC,Xu et al. (2023) LLMs and ARC,Not Started,2026-07-23,Phase 3
+Paper,P62-GPT4ARC50,Greenblatt (2023) Getting 50% on ARC with GPT-4,Not Started,2026-07-25,Phase 3 - MUST READ
+Paper,P63-CodeARC,Butt et al. (2024) CodeARC,Not Started,2026-07-27,Phase 3
+Paper,P64-NeuroSymbolic,Parisotto et al. (2017) Neuro-Symbolic Program Synthesis,Not Started,2026-07-29,Phase 3
+Paper,P65-BUSTLE,Odena et al. (2021) BUSTLE,Not Started,2026-07-31,Phase 3
+Paper,P66-CoT-Foundation,Wei et al. (2022) Chain-of-Thought (Phase 4 review),Not Started,2026-08-10,Phase 4
+Paper,P67-ZeroShotCoT,Kojima et al. (2022) Zero-Shot CoT,Not Started,2026-08-12,Phase 4
+Paper,P68-PPO,Schulman et al. (2017) PPO,Not Started,2026-08-14,Phase 4
+Paper,P69-GRPO,Shao et al. (2024) DeepSeekMath GRPO,Not Started,2026-08-16,Phase 4 - MUST READ
+Paper,P70-DeepSeekR1,Guo et al. (2025) DeepSeek-R1,Not Started,2026-08-18,Phase 4 - MUST READ
+Paper,P71-OpenAI-o1,Jaech et al. (2024) OpenAI o1,Not Started,2026-08-20,Phase 4
+Paper,P72-ScalingTestTime,Snell et al. (2024) Scaling Test-Time Compute,Not Started,2026-08-22,Phase 4
+Paper,P73-PRM,Lightman et al. (2023) Process Reward Models,Not Started,2026-08-24,Phase 4
+Paper,P74-RefinedPRM,Luo et al. (2024) Refined PRMs,Not Started,2026-08-26,Phase 4
+Paper,P75-VisualizingCNNs,Zeiler & Fergus (2014) Visualizing CNNs,Not Started,2026-08-28,Phase 4
+Paper,P76-MAML,Finn et al. (2017) MAML,Not Started,2026-08-30,Phase 4
+Paper,P77-SelfRefine,Madaan et al. (2023) Self-Refine,Not Started,2026-09-01,Phase 4
+Paper,P78-TreeOfThoughts,Yao et al. (2023) Tree of Thoughts,Not Started,2026-09-03,Phase 4
+Paper,P79-GraphOfThoughts,Besta et al. (2024) Graph of Thoughts,Not Started,2026-09-05,Phase 4
+Paper,P80-ScalingInference,Wang et al. (2024) Scaling LLM Inference,Not Started,2026-09-07,Phase 4
+Paper,P81-ReproducingO1,Zeng et al. (2025) Reproducing o1,Not Started,2026-09-09,Phase 4
+Paper,P82-ARCPrize2024,Wang et al. (2024) ARC Prize 2024 Report,Not Started,2026-09-11,Phase 4 - MUST READ
+Paper,P83-HypothesisSearch,Banburski-Fahey et al. (2024) Hypothesis Search,Not Started,2026-09-13,Phase 4
+Paper,P84-LARC,Acquaviva et al. (2022) LARC,Not Started,2026-09-15,Phase 4
+Paper,P85-ARCIllusion,Holt et al. (2024) ARC and Illusion of Understanding,Not Started,2026-09-17,Phase 4
+Paper,P86-ProvablySafe,Tegmark & Omohundro (2023) Provably Safe Systems,Not Started,2026-09-19,Phase 4
+Paper,P87-ARCAGI2,Chollet et al. (2024) ARC-AGI-2,Not Started,2026-09-21,Phase 4 - MUST READ
+Paper,P88-LLMsReason,Kambhampati et al. (2024) Can LLMs Really Reason,Not Started,2026-09-23,Phase 4
+Paper,P89-GSMSymbolic,Mirzadeh et al. (2024) GSM-Symbolic,Not Started,2026-09-25,Phase 4
+Paper,P90-ScalingFuture,Amodei et al. (2025) Scaling and Future of AI,Not Started,2026-09-27,Phase 4
+Paper,P91-LargeConceptModels,Brown et al. (2024) Large Concept Models,Not Started,2026-09-29,Phase 4
+Paper,P92-ARCPrizeWinners,Xu & Chollet (2025) ARC-AGI-2 Prize Winners,Not Started,2026-10-01,Phase 4
+Paper,P93-Qwen25Coder,Yang et al. (2024) Qwen2.5-Coder,Not Started,2026-10-03,Phase 4
+JobPrep,Manual-ARC-50,Solve 50 ARC tasks manually before writing code,Not Started,2026-03-25,Non-negotiable
+JobPrep,WandB-Setup,Set up Weights & Biases experiment tracking,Not Started,2026-03-11,
+JobPrep,GitHub-Profile,Polish GitHub profile with professional README,Not Started,2026-03-18,
+JobPrep,LinearAlgebra-Review,Watch 3Blue1Brown Essence of Linear Algebra,Not Started,2026-03-25,
+JobPrep,LeetCode-Phase1,Complete 20 LeetCode easy/medium problems,Not Started,2026-04-18,
+JobPrep,Project1-Blog,Write blog post about ARC-Perceiver approach and results,Not Started,2026-05-15,
+JobPrep,ARC-Community,Join ARC-AGI Discord; introduce yourself,Not Started,2026-05-01,
+JobPrep,LeetCode-Phase2,Complete 40 LeetCode medium problems,Not Started,2026-06-30,
+JobPrep,HuggingFace-P2,Upload NeuralSolver model weights to HuggingFace,Not Started,2026-06-14,
+JobPrep,Gradio-Demo-P2,Build Gradio demo for NeuralSolver,Not Started,2026-06-30,
+JobPrep,Paper-Draft-P2,Begin workshop paper draft for Project 2,Not Started,2026-07-01,
+JobPrep,LeetCode-Phase3,Complete 40 LeetCode medium problems,Not Started,2026-08-09,
+JobPrep,Paper-Submit-P2,Submit Project 2 paper to workshop,Not Started,2026-08-15,
+JobPrep,LeetCode-Phase4,Complete 80 LeetCode medium/hard problems,Not Started,2026-10-11,
+JobPrep,LinkedIn-Polish,Polish LinkedIn profile with all projects and scores,Not Started,2026-09-01,
+JobPrep,Personal-Website,Build personal portfolio website,Not Started,2026-09-15,
+JobPrep,Mock-Interviews,Complete 5+ mock technical interviews,Not Started,2026-10-15,
+JobPrep,Applications-Start,Begin 10+ job applications per week,Not Started,2026-10-01,
+JobPrep,Paper-Submit-P4,Submit ARC-Reasoner paper to workshop,Not Started,2026-10-15,
+JobPrep,ARC-Competition,Submit to ARC-AGI competition if active,Not Started,2026-10-20,
+Milestone,ARC1-Score-P1,ARC-AGI-1 score after Project 1,Not Started,2026-04-19,Target: 15-25%
+Milestone,ARC1-Score-P2,ARC-AGI-1 score after Project 2,Not Started,2026-06-14,Target: 30-42%
+Milestone,ARC1-Score-P3,ARC-AGI-1 score after Project 3,Not Started,2026-08-09,Target: 48-62%
+Milestone,ARC1-Score-P4,ARC-AGI-1 score after Project 4,Not Started,2026-10-11,Target: 55-70%
+Milestone,ARC2-Score-P4,ARC-AGI-2 score after Project 4,Not Started,2026-10-11,Target: 30-50%
+Milestone,First-Job-Offer,Receive first job offer,Not Started,2026-11-30,Target date
