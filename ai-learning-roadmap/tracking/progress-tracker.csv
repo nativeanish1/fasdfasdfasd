@@ -1,5 +1,5 @@
 Category,Item,Description,Status,Target_Date,Notes
-Book,Book 1,Hands-On ML with Scikit-Learn and PyTorch (Géron),Completed,2026-03-31,Completed Oct 2025 per problem statement
+Book,Book 1,Hands-On ML with Scikit-Learn and PyTorch (Géron),Not Started,2026-03-31,Completed Oct 2025 per problem statement
 Book,Book 2,Deep Learning with Python 3rd Ed (Chollet),Not Started,2026-05-31,
 Book,Book 3,Build an LLM from Scratch (Raschka),Not Started,2026-07-31,
 Book,Book 4,Build a Reasoning Model from Scratch (Raschka),Not Started,2026-09-30,MEAP/Upcoming at time of writing
